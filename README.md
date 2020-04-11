@@ -13,8 +13,8 @@ Open resources listing and describing ontologies within and related to neuroscie
 ### BIOPORTAL
 
 Repository of biomedical ontologies.
-[Homepage](https://bioportal.bioontology.org)
 
+[Homepage](https://bioportal.bioontology.org)
 
 ### Data Collection Ontology
 
