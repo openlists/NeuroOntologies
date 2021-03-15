@@ -1,12 +1,14 @@
 # NeuroOntologies
 
-A listing of ontologies and related resources within and related to neuroscience.
+A list of ontologies and related resources relating to neuroscience.
 
 ## Cognitive & Neuroscience Ontologies
 
+The following are ontologies proposed and developed within the domains of neuroscience and cognitive science.
+
 ### Cognitive Atlas
 
-The cognitive atlas is a curated ontology of concepts in cognitive science. It includes entries including concepts, tasks, phenotypes, etc, and also documents relationships between included entries. 
+The cognitive atlas is a curated ontology of concepts in cognitive science, including concepts, tasks, phenotypes, their inter-relationships.
 
 [Homepage](https://www.cognitiveatlas.org)
 
@@ -25,21 +27,39 @@ Knowledge space is an encyclopedia that strives to link brain related concepts t
 
 ### NeuroLEX
 
-The goal of NeuroLex is to be a dynamic lexicon of neuroscience terms.
+NeuroLex is a dynamic lexicon of neuroscience terms.
 
-[Homepage](https://orbit.nlm.nih.gov/browse-repository/dataset/human-annotated/77-neurolex-a-dynamic-lexicon-of-neuroscience-terms)
+[Homepage](https://orbit.nlm.nih.gov/browse-repository/dataset/human-annotated/77-neurolex-a-dynamic-lexicon-of-neuroscience-terms) -
+[Paper](https://doi.org/10.3389/fninf.2013.00018)
 
 ### BrainInfo
 
-BrainInfo is a portal for neuro-anatomical information. It contains NeuroNames, which is an index of brain structures.
+BrainInfo is a portal for neuro-anatomical information, including NeuroNames, an index of brain structures.
 
 [Homepage](http://braininfo.rprc.washington.edu/nnont.aspx)
 
+### NEMO
+
+Neural ElectroMagnetic Ontologies (NEMO) is a project for creating EEG and MEG ontologies and ontology based tools. 
+
+[Homepage](http://nemo.nic.uoregon.edu/wiki/NEMO) - 
+[Paper](https://doi.org/10.1038/npre.2009.3458.1)
+
+### Neuroscience Knowledge Engine
+
+The Neuroscience Knowledge Engine is a data driven ontology for neuro-biological terms based on text mining human neuroimaging articles.
+
+[Homepage](http://neuro-knowledge.org/) -
+[Github](https://github.com/ehbeam/neuro-knowledge-engine) - 
+[Preprint](https://doi.org/10.1101/701540 )
+
 ## Biological Ontologies
+
+The following are more general databases, tools, and repositories, related to ontologies in the biological sciences.
 
 ### BIOPORTAL
 
-Bioportal is itself a collection, listing out biomedical ontologies.
+Bioportal is a repository for biomedical ontologies.
 
 [Homepage](https://bioportal.bioontology.org)
 
@@ -51,6 +71,6 @@ The data collection ontology is an ontology designed for data collection.
 
 ### InterLEX
 
-The goal of InterLex is to be a dynamic lexicon of biomedical terms.
+InterLex is a dynamic lexicon of biomedical terms.
 
 [Homepage](https://neuinfo.org/interlex/dashboard)
