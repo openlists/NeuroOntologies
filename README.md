@@ -10,7 +10,8 @@ The following are ontologies proposed and developed within the domains of neuros
 
 The cognitive atlas is a curated ontology of concepts in cognitive science, including concepts, tasks, phenotypes, their inter-relationships.
 
-[Homepage](https://www.cognitiveatlas.org)
+[Homepage](https://www.cognitiveatlas.org) - 
+[Paper](https://doi.org/10.3389/fninf.2011.00017)
 
 ### NIF Standard Ontology
 
@@ -23,7 +24,7 @@ The Neuroscience Information Framework (NIF) Standard Ontology is a curated onto
 
 Knowledge space is an encyclopedia that strives to link brain related concepts to data, models, and literature.
 
-[Homepage](https://knowledge-space.org/About)
+[Homepage](https://knowledge-space.org/)
 
 ### NeuroLEX
 
@@ -38,9 +39,9 @@ BrainInfo is a portal for neuro-anatomical information, including NeuroNames, an
 
 [Homepage](http://braininfo.rprc.washington.edu/nnont.aspx)
 
-### NEMO
+### NEMO: Neural ElectrMagnetic Ontologies
 
-Neural ElectroMagnetic Ontologies (NEMO) is a project for creating EEG and MEG ontologies and ontology based tools. 
+NEMO is a project for creating EEG and MEG ontologies and ontology based tools. 
 
 [Homepage](http://nemo.nic.uoregon.edu/wiki/NEMO) - 
 [Paper](https://doi.org/10.1038/npre.2009.3458.1)
@@ -51,7 +52,7 @@ The Neuroscience Knowledge Engine is a data driven ontology for neuro-biological
 
 [Homepage](http://neuro-knowledge.org/) -
 [Github](https://github.com/ehbeam/neuro-knowledge-engine) - 
-[Preprint](https://doi.org/10.1101/701540 )
+[Preprint](https://doi.org/10.1101/701540)
 
 ## Biological Ontologies
 
@@ -62,6 +63,12 @@ The following are more general databases, tools, and repositories, related to on
 Bioportal is a repository for biomedical ontologies.
 
 [Homepage](https://bioportal.bioontology.org)
+
+### OLS: Ontology Lookup Service
+
+The OLS, by the European Molecular Biology Lab (EMBL), is a repository and lookup service for biomedical ontologies. 
+
+[Homepage](https://www.ebi.ac.uk/ols/index)
 
 ### Data Collection Ontology
 
@@ -74,3 +81,10 @@ The data collection ontology is an ontology designed for data collection.
 InterLex is a dynamic lexicon of biomedical terms.
 
 [Homepage](https://neuinfo.org/interlex/dashboard)
+
+### UBERON: Uber-anatomy ontology
+
+Uberon is a cross-species anatomy ontology.
+
+[Homepage](http://obophenotype.github.io/uberon/) - 
+[Github](https://github.com/obophenotype/uberon)
